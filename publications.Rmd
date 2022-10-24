@@ -1,10 +1,8 @@
 ---
-title: "Our Research"
+title: "List of recent Publications"
 ---
 
-# List of recent Publications
 
-Recent publications will be listed here:
 
 ## 2022
 
@@ -28,75 +26,75 @@ Interplay of ADHD Polygenic Liability With Birth-Related, Somatic, and Psychosoc
 https://doi.org/10.1176/appi.ajp.21111105
 
 
-Multi-PGS enhances polygenic prediction: weighting 937 polygenic scores.
+Multi-PGS enhances polygenic prediction: weighting 937 polygenic scores.  
 https://doi.org/10.1101/2022.09.14.22279940
 
 
-ADuLT: An efficient and robust time-to-event GWAS.
+ADuLT: An efficient and robust time-to-event GWAS.  
 https://doi.org/10.1101/2022.08.11.22278618
 
 
-Deep integrative models for large-scale human genomics.
+Deep integrative models for large-scale human genomics.  
 https://doi.org/10.1101/2021.06.11.447883
 
 
-Identification of 64 new risk loci for major depression, refinement of the genetic architecture and risk prediction of recurrence and comorbidities.
+Identification of 64 new risk loci for major depression, refinement of the genetic architecture and risk prediction of recurrence and comorbidities.  
 https://doi.org/10.1101/2022.08.24.22279149 
 
 
-Polygenic scoring accuracy varies across the genetic ancestry continuum in all human populations.
+Polygenic scoring accuracy varies across the genetic ancestry continuum in all human populations.  
 https://doi.org/10.1101/2022.09.28.509988
 
 
-Genetic correlates of vitamin D-binding protein and 25 hydroxyvitamin D in neonatal dried blood spots.
+Genetic correlates of vitamin D-binding protein and 25 hydroxyvitamin D in neonatal dried blood spots.  
 https://doi.org/10.1101/2022.06.08.22276164
 
 
-Discriminating bipolar disorder type I and II using polygenic risk scores for bipolar disorder, schizophrenia and major depression.
+Discriminating bipolar disorder type I and II using polygenic risk scores for bipolar disorder, schizophrenia and major depression.  
 ***in press***
 
 
-Polygenic risk and episode polarity among individuals with bipolar disorder.
+Polygenic risk and episode polarity among individuals with bipolar disorder.  
 ***in press***
 
 
-Genetic liability to posttraumatic stress disorder and its association with postpartum depression.
+Genetic liability to posttraumatic stress disorder and its association with postpartum depression.  
 ***in press***
 
 
-Portability of 245 polygenic scores when derived and applied in the same cohort.
+Portability of 245 polygenic scores when derived and applied in the same cohort.  
 https://doi.org/10.1016/j.ajhg.2021.11.008
 
 
-Large uncertainty in individual PRS estimation impacts PRS-based risk stratification.
+Large uncertainty in individual PRS estimation impacts PRS-based risk stratification.  
 https://doi.org/10.1101/2020.11.30.403188
 
 
-Correcting for contamination with bovine serum albumin-associated vitamin D metabolites in protein extracts from neonatal dried blood spots.
+Correcting for contamination with bovine serum albumin-associated vitamin D metabolites in protein extracts from neonatal dried blood spots.  
 https://doi.org/10.1186/s13104-022-06077-1
 
 
-Interplay of ADHD polygenic liability with birth-related, somatic and psychosocial factors in ADHD-a nationwide study.
+Interplay of ADHD polygenic liability with birth-related, somatic and psychosocial factors in ADHD-a nationwide study.  
 https://doi.org/10.1101/2021.08.18.21262211
 
 
-Early life injuries and the development of attention-deficit hyperactivity disorder. 
+Early life injuries and the development of attention-deficit hyperactivity disorder.   
 https://doi.org/10.4088/JCP.21m14033
 
 
-Genome-wide association study of febrile seizures identifies seven new loci implicating fever response and neuronal excitability genes.
+Genome-wide association study of febrile seizures identifies seven new loci implicating fever response and neuronal excitability genes.  
 https://doi.org/10.1093/brain/awab260
 
 
-Using the UK Biobank as a global reference of worldwide populations: application to measuring ancestry diversity from GWAS summary statistics.
+Using the UK Biobank as a global reference of worldwide populations: application to measuring ancestry diversity from GWAS summary statistics.  
 https://doi.org/10.1093/bioinformatics/btac348
 
 
-Pervasive Downward Bias in Estimates of Liability-Scale Heritability in Genome-wide Association Study Meta-analysis: A Simple Solution.
+Pervasive Downward Bias in Estimates of Liability-Scale Heritability in Genome-wide Association Study Meta-analysis: A Simple Solution.  
 https://doi.org/10.1016/j.biopsych.2022.05.029
 
 
-Optimal linkage disequilibrium splitting.
+Optimal linkage disequilibrium splitting.  
 https://doi.org/10.1093/bioinformatics/btab519
 
 
@@ -104,91 +102,131 @@ https://doi.org/10.1093/bioinformatics/btab519
 
 ## 2021
 
-Investigating the shared genetic architecture between multiple sclerosis and inflammatory bowel diseases.
+Investigating the shared genetic architecture between multiple sclerosis and inflammatory bowel diseases.  
 https://doi.org/10.1038/s41467-021-25768
 
 
-System controls of coastal and open ocean oxygen depletion.
+System controls of coastal and open ocean oxygen depletion.  
 https://doi.org/10.1016/j.pocean.2021.102613
 
 
-Finding hidden treasures in summary statistics from genome-wide association studies.
+Finding hidden treasures in summary statistics from genome-wide association studies.  
 https://doi.org/10.1038/s41588-021-00824-z
 
 
-Improved genetic prediction of complex traits from individual-level data or summary statistics.
+Improved genetic prediction of complex traits from individual-level data or summary statistics.  
 https://doi.org/10.1038/s41467-021-24485-y 
 
 
-Estimating the effective sample size in association studies of quantitative traits.
+Estimating the effective sample size in association studies of quantitative traits.  
 https://doi.org/10.1093/g3journal/jkab057
 
 
-Leveraging both individual-level genetic data and GWAS summary statistics increases polygenic prediction.
+Leveraging both individual-level genetic data and GWAS summary statistics increases polygenic prediction.  
 https://doi.org/10.1016/j.ajhg.2021.04.014
 
 
-Finding hidden treasures in summary statistics from genome-wide association studies.
+Finding hidden treasures in summary statistics from genome-wide association studies.  
 https://doi.org/10.1038/s41588-021-00824-z
 
 
-Evaluating the interrelations between individual genetic liability and psychiatric family history in risk for autism.
+Evaluating the interrelations between individual genetic liability and psychiatric family history in risk for autism.  
 https://doi.org/10.1002/aur.2629
 
 
-Multitrait GWAS to connect disease variants and biological mechanisms.
+Multitrait GWAS to connect disease variants and biological mechanisms.  
 https://doi.org/10.1371/journal.pgen.1009713
 
 
-Anorexia nervosa and inflammatory bowel diseases - diagnostic and genetic associations.
+Anorexia nervosa and inflammatory bowel diseases - diagnostic and genetic associations.  
 https://doi.org/10.1002/jcv2.12036
 
 
-Genetic, Clinical, and Sociodemographic Factors Associated With Stimulant Treatment Outcomes in ADHD.
+Genetic, Clinical, and Sociodemographic Factors Associated With Stimulant Treatment Outcomes in ADHD.  
 https://doi.org/10.1176/appi.ajp.2020.20121686
 
 
-Developmental exposure to vitamin D deficiency and subsequent risk of schizophrenia.
+Developmental exposure to vitamin D deficiency and subsequent risk of schizophrenia.  
 https://doi.org/10.1016/j.schres.2021.06.004
 
 
-A polygenic risk score improves risk stratification of obstructive coronary artery disease beyond clinical risk factors in patients with stable chest symptoms.
+A polygenic risk score improves risk stratification of obstructive coronary artery disease beyond clinical risk factors in patients with stable chest symptoms.  
 https://doi.org/10.1161/CIRCGEN.120.003298
 
 
-Polygenic Liability and Recurrence of Depression in Patients With First-Onset Depression Treated in Hospital-Based Settings.
+Polygenic Liability and Recurrence of Depression in Patients With First-Onset Depression Treated in Hospital-Based Settings.  
 https://doi.org/10.1001/jamapsychiatry.2021.0701
 
 
-Polygenic liability, stressful life events and risk for developing severe depression in early life: A nationwide register-based case-cohort study.
+Polygenic liability, stressful life events and risk for developing severe depression in early life: A nationwide register-based case-cohort study.  
 https://doi.org/10.1017/s0033291721001410
 
 
-Risk of Major Depression, Polygenic Risk Score for Depression, Parental Socio-Economic Status and History of Mental Disorders: A Danish Population-Based Study.
+Risk of Major Depression, Polygenic Risk Score for Depression, Parental Socio-Economic Status and History of Mental Disorders: A Danish Population-Based Study.  
 https://doi.org/10.1001/jamapsychiatry.2020.4172
 
 
 
 ## 2020
 
-LDpred2 : better, faster, stronger.
+LDpred2 : better, faster, stronger.  
 https://doi.org/10.1093/bioinformatics/btaa1029
 
 
-Polygenic risk score, psychosocial environment and the risk of attention-deficit/hyperactivity disorder.
+Polygenic risk score, psychosocial environment and the risk of attention-deficit/hyperactivity disorder.  
 https://doi.org/10.1038/s41398-020-01019-6
 
 
-Efficient toolkit implementing best practices for principal component analysis of population genetic data.
+Efficient toolkit implementing best practices for principal component analysis of population genetic data.  
 https://doi.org/10.1093/bioinformatics/btaa520
 
 
-Performing highly efficient genome scans for local adaptation with R package pcadapt version 4.
+Performing highly efficient genome scans for local adaptation with R package pcadapt version 4.  
 https://doi.org/10.1093/molbev/msaa053
 
 
+Polygenic Risk Score, Psychosocial Environment and the Risk of ADHD.   
+https://doi.org/10.1038/s41398-020-01019-6
 
 
+Families, health-registers, and biobanks – making the unmeasurable measurable.   
+https://doi.org/10.1016/j.biopsych.2020.06.025
+
+
+Nature and prevalence of combinations of mental disorders and their association with excess mortality in a population-based cohort study.   
+https://doi.org/10.1002/wps.20802
+
+
+Genetic liability to major depression and risk of childhood asthma.   
+https://doi.org/10.1016/j.bbi.2020.07.030
+
+
+Linking the association between circRNAs and Alzheimer’s disease progression by multi-tissue circular RNA characterization.   
+https://doi.org/10.1080/15476286.2020.1783487
+
+
+Polygenic risk and progression to bipolar or psychotic disorders among individuals diagnosed with unipolar depression.   
+https://doi.org/10.1176/appi.ajp.2020.19111195
+
+
+Association Between Childhood Green Space, Genetic Liability, and the Incidence of Schizophrenia.   
+https://doi.org/10.1093/schbul/sbaa058
+
+
+Association between Mental Disorders and Subsequent Medical Conditions.   
+https://doi.org/10.1056/nejmoa1915784
+
+
+Symbiosis genes show a unique pattern of introgression and selection within a Rhizobium leguminosarum species complex.   
+https://doi.org/10.1099/mgen.0.000351
+
+
+JASS: Command Line and Web interface for the joint analysis of GWAS results.   
+https://doi.org/10.1093/nargab/lqaa003
+
+
+Extreme genetic signatures of local adaptation during Lotus japonicus colonization of Japan.   
+https://doi.org/10.1038/s41467-019-14213-y
 
 
 ## 2019
@@ -199,6 +237,9 @@ https://ng.neurology.org/content/5/6/e368
 
 Making the Most of Clumping and Thresholding for Polygenic Scores.
 https://doi.org/10.1016/j.ajhg.2019.11.001
+
+
+
 
 
 
