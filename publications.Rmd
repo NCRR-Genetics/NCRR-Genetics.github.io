@@ -231,27 +231,53 @@ https://doi.org/10.1038/s41467-019-14213-y
 
 ## 2019
 
-Headaches and polygenic scores.
+Headaches and polygenic scores.   
 https://ng.neurology.org/content/5/6/e368
 
 
-Making the Most of Clumping and Thresholding for Polygenic Scores.
+Making the Most of Clumping and Thresholding for Polygenic Scores.   
 https://doi.org/10.1016/j.ajhg.2019.11.001
 
 
+Association of Childhood Exposure to Nitrogen Dioxide and Polygenic Risk Score for Schizophrenia With the Risk of Developing Schizophrenia.   
+https://doi.org/10.1001/jamanetworkopen.2019.14401
 
+
+Association Mapping and Disease: Evolutionary Perspectives.   
+https://doi.org/10.1007/978-1-4939-9074-0_17
+
+
+Transgenerational effects of inter-ploidy cross direction on reproduction and seed development in Arabidopsis thaliana F1 hybrid triploids.   
+https://doi.org/10.1007/s00497-019-00369-6
 
 
 
 ## 2018
 
+The nature of nurture: Effects of parental genotypes.   
+https://doi.org/10.1126/science.aan6877
+
+
+PhenoSpD: an atlas of phenotypic correlations and a multiple testing correction for the human phenome.   
+https://doi.org/10.1093/gigascience/giy090
+
 
 
 ## 2017
 
+Covariate selection for association screening in multi-phenotype genetic studies.   
+https://doi.org/10.1038/ng.3975
+
 
 
 ## 2016
+
+Nationwide Genomic Study in Denmark Reveals Remarkable Population Homogeneity.   
+https://doi.org/10.1534/genetics.116.189241
+
+
+Response to Day et al.   
+https://doi.org/10.1016/j.ajhg.2015.12.020
 
 
 
@@ -259,7 +285,10 @@ https://doi.org/10.1016/j.ajhg.2019.11.001
 
 
 
+
+
 ## 2014
+
 
 
 
@@ -267,6 +296,16 @@ https://doi.org/10.1016/j.ajhg.2019.11.001
 
 
 
+
 ## 2012
+
+
+
+## 2011
+
+
+
+## 2010
+
 
 
