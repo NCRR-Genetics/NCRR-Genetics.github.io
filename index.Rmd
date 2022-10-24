@@ -2,16 +2,15 @@
 title: "Welcome to the NCRR - Genetics group website"
 ---
 
-![](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/grp.png)
+<!-- ![](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/grp.png) -->
 
-International group ... 
-
-Group focuses on topics ...     
 
 [Read more about the group](who.html)  
 
 [Read publications from the group](publications.html)
 
+
+The group is based in Aarhus at NCRR:
 ```{r, echo=F}
 library(leaflet)
 leaflet() %>%
