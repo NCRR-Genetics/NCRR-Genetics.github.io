@@ -283,29 +283,106 @@ https://doi.org/10.1016/j.ajhg.2015.12.020
 
 ## 2015
 
+Modeling linkage disequilibrium increases accuracy of polygenic risk scores.   
+https://doi.org/10.1016/j.ajhg.2015.09.001
 
+
+Adjusting for heritable covariates can bias effect estimates in genome-wide association studies.   
+https://doi.org/10.1016%2Fj.ajhg.2014.12.021
+
+
+Polygenic Risk Score, Parental Socioeconomic Status, Family History of Psychiatric Disorders and the Risk of Schizophrenia: A Danish Population-Based Study.   
+https://doi.org/10.1001/jamapsychiatry.2015.0346
+
+
+DNA methylation variation in Arabidopsis has a genetic basis and shows evidence of local adaptation.   
+https://doi.org/10.7554/eLife.05255
+
+
+Mixed model with correction for case-control ascertainment increases association power.   
+https://doi.org/10.1016/j.ajhg.2015.03.004
+
+
+Efficient Bayesian mixed model analysis increases association power in large cohorts.   
+http://dx.doi.org/10.1101/007799
 
 
 
 ## 2014
 
+Maximizing the Power in Genome-wide Association Studies of Principal Components from Correlated Phenotypes.   
+https://doi.org/10.1016/j.ajhg.2014.03.016
 
+
+Leveraging population admixture to characterize the heritability of complex traits.   
+https://doi.org/10.1038/ng.3139
+
+
+Partitioning Heritability of Regulatory and Cell-Type-Specific Variants across 11 Common Diseases.   
+https://doi.org/10.1016/j.ajhg.2014.10.004
+
+
+Genome-wide association study of Arabidopsis thaliana leaf microbial community.   
+http://dx.doi.org/10.1038/ncomms6320
+
+
+Effect of genetic variation in a Drosophila model of diabetes-associated misfolded human proinsulin.   
+https://doi.org/10.1534/genetics.113.157800
 
 
 ## 2013
 
+The nature of confounding in genome-wide association studies.   
+https://doi.org/10.1038/nrg3382
 
+
+Quantifying missing heritability at known GWAS loci.   
+https://doi.org/10.1371/journal.pgen.1003993
+
+
+Massive genomic variation and strong selection in Arabidopsis thaliana lines from Sweden.   
+https://doi.org/10.1038/ng.2678
+
+
+Genetic architecture of skin and eye color in an African-European admixed population.   
+https://doi.org/10.1371/journal.pgen.1003372
+
+
+JAWAMix5: an out-of-core HDF5-based java implementation of whole-genome association studies using mixed models.   
+https://doi.org/10.1093/bioinformatics/btt122
 
 
 ## 2012
+
+Multilocus mixed model for genome-wide association studies in structured populations.   
+https://doi.org/10.1038%2Fng.2314
+
+
+A mixed model for genome-wide association studies of correlated traits in structured populations.   
+https://doi.org/10.1038/ng.2376
+
+
+GWAPP: A web application for genome-wide association studies in A. thaliana.   
+https://doi.org/10.1105/tpc.112.108068
+
+
+Genome-wide patterns of genetic variation in worldwide Arabidopsis thaliana accessions from the RegMap panel.   
+https://doi.org/10.1038%2Fng.1042
 
 
 
 ## 2011
 
+Analysis and visualization of Arabidopsis thaliana GWAS using web 2.0 technologies.   
+https://doi.org/10.1093/database/bar014
 
 
 ## 2010
 
+Genome-wide association study of 107 phenotypes in Arabidopsis thaliana inbred lines.   
+https://doi.org/10.1038/nature08800
 
+
+Conditions Under Which Genome-wide Association Studies Will be Positively Misleading.   
+https://doi.org/10.1534/genetics.110.121665
 
