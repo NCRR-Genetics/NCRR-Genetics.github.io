@@ -8,23 +8,23 @@ Recent publications will be listed here:
 
 ## 2022
 
-Inferring disease architecture and predictive ability with LDpred2-auto:  
+Inferring disease architecture and predictive ability with LDpred2-auto.  
 https://doi.org/10.1101/2022.10.10.511629
 
 
-Publicly Available Privacy-preserving Benchmarks for Polygenic Prediction:  
+Publicly Available Privacy-preserving Benchmarks for Polygenic Prediction.  
 https://doi.org/10.1101/2022.10.10.510645
 
 
-Identifying and correcting for misspecifications in GWAS summary statistics and polygenic scores:  
+Identifying and correcting for misspecifications in GWAS summary statistics and polygenic scores.  
 https://doi.org/10.1016/j.xhgg.2022.100136
 
 
-Accounting for age of onset and family history improves power in genome-wide association studies:  
+Accounting for age of onset and family history improves power in genome-wide association studies.  
 https://doi.org/10.1016/j.ajhg.2022.01.009
 
 
-Interplay of ADHD Polygenic Liability With Birth-Related, Somatic, and Psychosocial Factors in ADHD: A Nationwide Study:  
+Interplay of ADHD Polygenic Liability With Birth-Related, Somatic, and Psychosocial Factors in ADHD: A Nationwide Study.  
 https://doi.org/10.1176/appi.ajp.21111105
 
 
@@ -32,7 +32,7 @@ Multi-PGS enhances polygenic prediction: weighting 937 polygenic scores.
 https://doi.org/10.1101/2022.09.14.22279940
 
 
-ADuLT: An efficient and robust time-to-event GWAS
+ADuLT: An efficient and robust time-to-event GWAS.
 https://doi.org/10.1101/2022.08.11.22278618
 
 
@@ -88,7 +88,7 @@ Genome-wide association study of febrile seizures identifies seven new loci impl
 https://doi.org/10.1093/brain/awab260
 
 
-Using the UK Biobank as a global reference of worldwide populations: application to measuring ancestry diversity from GWAS summary statistics
+Using the UK Biobank as a global reference of worldwide populations: application to measuring ancestry diversity from GWAS summary statistics.
 https://doi.org/10.1093/bioinformatics/btac348
 
 
@@ -96,21 +96,96 @@ Pervasive Downward Bias in Estimates of Liability-Scale Heritability in Genome-w
 https://doi.org/10.1016/j.biopsych.2022.05.029
 
 
-Optimal linkage disequilibrium splitting
+Optimal linkage disequilibrium splitting.
 https://doi.org/10.1093/bioinformatics/btab519
-
-
 
 
 
 
 ## 2021
 
+Investigating the shared genetic architecture between multiple sclerosis and inflammatory bowel diseases.
+https://doi.org/10.1038/s41467-021-25768
 
+
+System controls of coastal and open ocean oxygen depletion.
+https://doi.org/10.1016/j.pocean.2021.102613
+
+
+Finding hidden treasures in summary statistics from genome-wide association studies.
+https://doi.org/10.1038/s41588-021-00824-z
+
+
+Improved genetic prediction of complex traits from individual-level data or summary statistics.
+https://doi.org/10.1038/s41467-021-24485-y 
+
+
+Estimating the effective sample size in association studies of quantitative traits.
+https://doi.org/10.1093/g3journal/jkab057
+
+
+Leveraging both individual-level genetic data and GWAS summary statistics increases polygenic prediction.
+https://doi.org/10.1016/j.ajhg.2021.04.014
+
+
+Finding hidden treasures in summary statistics from genome-wide association studies.
+https://doi.org/10.1038/s41588-021-00824-z
+
+
+Evaluating the interrelations between individual genetic liability and psychiatric family history in risk for autism.
+https://doi.org/10.1002/aur.2629
+
+
+Multitrait GWAS to connect disease variants and biological mechanisms.
+https://doi.org/10.1371/journal.pgen.1009713
+
+
+Anorexia nervosa and inflammatory bowel diseases - diagnostic and genetic associations.
+https://doi.org/10.1002/jcv2.12036
+
+
+Genetic, Clinical, and Sociodemographic Factors Associated With Stimulant Treatment Outcomes in ADHD.
+https://doi.org/10.1176/appi.ajp.2020.20121686
+
+
+Developmental exposure to vitamin D deficiency and subsequent risk of schizophrenia.
+https://doi.org/10.1016/j.schres.2021.06.004
+
+
+A polygenic risk score improves risk stratification of obstructive coronary artery disease beyond clinical risk factors in patients with stable chest symptoms.
+https://doi.org/10.1161/CIRCGEN.120.003298
+
+
+Polygenic Liability and Recurrence of Depression in Patients With First-Onset Depression Treated in Hospital-Based Settings.
+https://doi.org/10.1001/jamapsychiatry.2021.0701
+
+
+Polygenic liability, stressful life events and risk for developing severe depression in early life: A nationwide register-based case-cohort study.
+https://doi.org/10.1017/s0033291721001410
+
+
+Risk of Major Depression, Polygenic Risk Score for Depression, Parental Socio-Economic Status and History of Mental Disorders: A Danish Population-Based Study.
+https://doi.org/10.1001/jamapsychiatry.2020.4172
 
 
 
 ## 2020
+
+LDpred2 : better, faster, stronger.
+https://doi.org/10.1093/bioinformatics/btaa1029
+
+
+Polygenic risk score, psychosocial environment and the risk of attention-deficit/hyperactivity disorder.
+https://doi.org/10.1038/s41398-020-01019-6
+
+
+Efficient toolkit implementing best practices for principal component analysis of population genetic data.
+https://doi.org/10.1093/bioinformatics/btaa520
+
+
+Performing highly efficient genome scans for local adaptation with R package pcadapt version 4.
+https://doi.org/10.1093/molbev/msaa053
+
 
 
 
@@ -118,7 +193,12 @@ https://doi.org/10.1093/bioinformatics/btab519
 
 ## 2019
 
+Headaches and polygenic scores.
+https://ng.neurology.org/content/5/6/e368
 
+
+Making the Most of Clumping and Thresholding for Polygenic Scores.
+https://doi.org/10.1016/j.ajhg.2019.11.001
 
 
 
