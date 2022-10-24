@@ -28,6 +28,82 @@ Interplay of ADHD Polygenic Liability With Birth-Related, Somatic, and Psychosoc
 https://doi.org/10.1176/appi.ajp.21111105
 
 
+Multi-PGS enhances polygenic prediction: weighting 937 polygenic scores.
+https://doi.org/10.1101/2022.09.14.22279940
+
+
+ADuLT: An efficient and robust time-to-event GWAS
+https://doi.org/10.1101/2022.08.11.22278618
+
+
+Deep integrative models for large-scale human genomics.
+https://doi.org/10.1101/2021.06.11.447883
+
+
+Identification of 64 new risk loci for major depression, refinement of the genetic architecture and risk prediction of recurrence and comorbidities.
+https://doi.org/10.1101/2022.08.24.22279149 
+
+
+Polygenic scoring accuracy varies across the genetic ancestry continuum in all human populations.
+https://doi.org/10.1101/2022.09.28.509988
+
+
+Genetic correlates of vitamin D-binding protein and 25 hydroxyvitamin D in neonatal dried blood spots.
+https://doi.org/10.1101/2022.06.08.22276164
+
+
+Discriminating bipolar disorder type I and II using polygenic risk scores for bipolar disorder, schizophrenia and major depression.
+***in press***
+
+
+Polygenic risk and episode polarity among individuals with bipolar disorder.
+***in press***
+
+
+Genetic liability to posttraumatic stress disorder and its association with postpartum depression.
+***in press***
+
+
+Portability of 245 polygenic scores when derived and applied in the same cohort.
+https://doi.org/10.1016/j.ajhg.2021.11.008
+
+
+Large uncertainty in individual PRS estimation impacts PRS-based risk stratification.
+https://doi.org/10.1101/2020.11.30.403188
+
+
+Correcting for contamination with bovine serum albumin-associated vitamin D metabolites in protein extracts from neonatal dried blood spots.
+https://doi.org/10.1186/s13104-022-06077-1
+
+
+Interplay of ADHD polygenic liability with birth-related, somatic and psychosocial factors in ADHD-a nationwide study.
+https://doi.org/10.1101/2021.08.18.21262211
+
+
+Early life injuries and the development of attention-deficit hyperactivity disorder. 
+https://doi.org/10.4088/JCP.21m14033
+
+
+Genome-wide association study of febrile seizures identifies seven new loci implicating fever response and neuronal excitability genes.
+https://doi.org/10.1093/brain/awab260
+
+
+Using the UK Biobank as a global reference of worldwide populations: application to measuring ancestry diversity from GWAS summary statistics
+https://doi.org/10.1093/bioinformatics/btac348
+
+
+Pervasive Downward Bias in Estimates of Liability-Scale Heritability in Genome-wide Association Study Meta-analysis: A Simple Solution.
+https://doi.org/10.1016/j.biopsych.2022.05.029
+
+
+Optimal linkage disequilibrium splitting
+https://doi.org/10.1093/bioinformatics/btab519
+
+
+
+
+
+
 ## 2021
 
 
@@ -47,3 +123,29 @@ https://doi.org/10.1176/appi.ajp.21111105
 
 
 ## 2018
+
+
+
+## 2017
+
+
+
+## 2016
+
+
+
+## 2015
+
+
+
+## 2014
+
+
+
+## 2013
+
+
+
+## 2012
+
+
