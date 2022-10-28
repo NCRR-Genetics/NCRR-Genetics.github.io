@@ -22,13 +22,13 @@ Bjarni Jóhann Vilhjálmsson is a statistical geneticist who is motivated to lev
 
 ![<font size="3"> ***Zhihong Zhu, Senior Researcher***</font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Picture4.jpg){height=300, width=170}  
 
-Background and areas of scientific interest here
+Zhihong Zhu is a Senior Researcher at NCRR, Aarhus University and scientific visitor at PCTG group, University of Queensland.    
 
   
 
 ![<font size="3"> ***Florian Privé, Senior Researcher*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Picture3.jpg){height=300, width=170}  
 
-Background and areas of scientific interest here
+Florian Privé is a Senior Researcher and data scientist in predictive human genetics at NCRR. He is an R(cpp) enthusiast and the rusersgrenoble founder and a former organizer.   
 
   
 
@@ -41,7 +41,7 @@ Background and areas of scientific interest here
 ![<font size="3"> ***Emil Pedersen, PhD student*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Picture1.jpg){height=300, width=170}  
 
 Background and areas of scientific interest here
-
+Emil Pedersen 
  
 
 ![<font size="3"> ***Clara Albiñana, PhD student*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Picture2.jpg){height=300, width=170}  
