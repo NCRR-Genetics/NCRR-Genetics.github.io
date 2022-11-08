@@ -4,6 +4,7 @@ title: "Welcome to the NCRR - Genetics group website"
 
 <!-- ![](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/grp.png) -->
 
+![<font size="3"> ***Group leader: Bjarni Jóhann Vilhjálmsson, professor*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/logo.png){height=500, width=300}
 
 [Read more about the group](who.html)  
 
