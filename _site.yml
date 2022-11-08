@@ -10,7 +10,7 @@ navbar:
     - text: "Publications"
       icon: fa-file-text
       href: publications.html
-    - text: "Who are we?"
+    - text: "About us"
       icon: fa-group
       href: who.html
     - text: "Events"
@@ -19,6 +19,9 @@ navbar:
     - text: "Wiki"
       icon: fa-info
       href: wiki.html
+    - text: "Blog"
+      icon: fa-commenting
+      href: blog.html
   right:
   - text: 'Contact us'
     icon: fa-envelope
