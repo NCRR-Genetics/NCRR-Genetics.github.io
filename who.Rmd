@@ -10,7 +10,7 @@ title: "The NCRR Genetics group"
 
   
 
-![<font size="3"> ***Group leader: Bjarni Jóhann Vilhjálmsson, professor*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Bjarni-Jóhann-Vilhjálmsson-scaled.jpg){height=300, width=250}  
+![<font size="3"> ***Group leader: Bjarni Jóhann Vilhjálmsson, professor*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Bjarni-Jóhann-Vilhjálmsson-scaled.jpg){height=300, width=210}  
 
 Bjarni Jóhann Vilhjálmsson is a statistical geneticist who is motivated to leverage large population-scale data to understand the interplay between genetic and environmental factors when determining the causes of disease. He leads a research group at Aarhus University that is focused on developing methods that integrate health registers and large genetic data to understand psychiatric disorders and other diseases. He is the author of LDpred1/2, one of the most cited methods and software for deriving Polygenic risk Scores.
 
@@ -64,7 +64,31 @@ Background and areas of scientific interest here
 
 ![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Picture8.png){height=300, width=170}  
 
-Background and areas of scientific interest here
+Background and areas of scientific interest here    
 
 
-  
+
+##Colaborators
+
+
+Zeynep Yilmaz   
+
+![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/yilmaz.jpg){height=300, width=200} 
+
+Mohamed Abdulkadir   
+
+
+![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Mohamed-Abdulkadir-6.jpg){height=300, width=200}
+
+Liselotte v. Petersen   
+
+![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/liselotte.jpg){height=300, width=170}
+
+Doug Speed   
+
+![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Doug_Speed.jpg){height=300, width=200}
+
+Christopher Hübel   
+
+![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/hübel.jpeg){height=300, width=200}
+
