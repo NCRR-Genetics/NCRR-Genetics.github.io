@@ -68,27 +68,27 @@ Background and areas of scientific interest here
 
 
 
-##Colaborators
+## Colaborators
 
 
-Zeynep Yilmaz   
+   
 
-![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/yilmaz.jpg){height=300, width=200} 
+![<font size="3"> ***Zeynep Yilmaz, Senior Researcher*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/yilmaz.jpg){height=300, width=200} 
 
-Mohamed Abdulkadir   
+    
 
 
-![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Mohamed-Abdulkadir-6.jpg){height=300, width=200}
+![<font size="3"> ***Mohamed Abdulkadir, Postdoc*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Mohamed-Abdulkadir-6.jpg){height=300, width=200}
 
-Liselotte v. Petersen   
+      
 
-![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/liselotte.jpg){height=300, width=170}
+![<font size="3"> ***Liselotte v. Petersen, Senior Researcher*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/liselotte.jpg){height=300, width=170}
 
-Doug Speed   
+   
 
-![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Doug_Speed.jpg){height=300, width=200}
+![<font size="3"> ***Doug Speed, Professor*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Doug_Speed.jpg){height=300, width=200}
 
-Christopher Hübel   
+   
 
-![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/hübel.jpeg){height=300, width=200}
+![<font size="3"> ***Christopher Hübel, Researcher*** </font>](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/hübel.jpeg){height=300, width=200}
 
