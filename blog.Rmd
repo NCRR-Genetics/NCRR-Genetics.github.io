@@ -1,0 +1,13 @@
+# Blog and media
+
+LDpred2 tutorial by Florian Privé:   
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aya8WsNAu6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+  
+
+mtCOJO tutorial by Zhihong Zhu: 
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TsNlswDVPos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

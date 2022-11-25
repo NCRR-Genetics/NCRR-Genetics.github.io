@@ -5,7 +5,7 @@ navbar:
   type: inverse
   left:
     - text: "Home"
-      icon: fa-home
+      icon: fa-dna
       href: index.html
     - text: "Publications"
       icon: fa-file-text

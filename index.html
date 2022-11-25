@@ -13,7 +13,7 @@
 
 <title>Welcome to the NCRR - Genetics group website</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
@@ -188,8 +188,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -197,16 +197,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -261,7 +254,7 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fa fa-dna"></span>
      
     Home
   </a>
@@ -364,14 +357,9 @@ website</h1>
 
 
 <!-- ![](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/grp.png) -->
-<div class="figure">
-<img
+<p><img
 src="picsandembeds/logo.png"
-width="300" alt="" />
-<p class="caption"><font size="3"> <strong><em>National Centre for
-Register-based Research genetics group lead by Bjarni Jóhann
-Vilhjálmsson</em></strong> </font></p>
-</div>
+width="300" /></p>
 <p><a href="who.html">Read more about the group</a></p>
 <p><a href="publications.html">Read publications from the group</a></p>
 <p>The group is based in Aarhus at NCRR:</p>
