@@ -4,14 +4,14 @@ title: "Welcome to the NCRR - Genetics group website"
 
 <!-- ![](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/grp.png) -->
 
-![](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Logo_DNA_code.png){height=500, width=300}
+![](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Logo_DNA_code.png){}
 
 [Read more about the group](who.html)  
 
 [Read publications from the group](publications.html)
 
 
-The group is based in Aarhus at NCRR:
+
 ```{r, echo=F}
 library(leaflet)
 leaflet() %>%
@@ -20,3 +20,4 @@ leaflet() %>%
   # addMarkers(lng=4.831376, lat=45.761270, popup="Florian Privé") %>%
   # addMarkers(lng=153.025869, lat=-27.470565, popup="Zhihong Zhu")
 ```
+The group is based in Aarhus at NCRR
