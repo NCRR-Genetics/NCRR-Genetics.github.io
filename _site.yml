@@ -16,9 +16,6 @@ navbar:
     - text: "Events"
       icon: fa-university
       href: events.html
-    - text: "Wiki"
-      icon: fa-info
-      href: wiki.html
     - text: "Blog"
       icon: fa-commenting
       href: blog.html
