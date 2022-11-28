@@ -6,6 +6,16 @@ title: "Welcome to the NCRR - Genetics group website"
 
 ![](C:/Users/au576454/Documents/ncrr-genetics\picsandembeds/Logo_DNA_code.png){}
 
+What is the National Centre for Register-based Research (NCRR)?   
+
+The NCRR opened on 1 September 2000 and was financed by a 5-year grant from the Danish Research Foundation. Research activities at the centre are mainly financed by external research grants.
+
+Research at the centre mainly consists of epidemiological studies of schizophrenia, mania, depression, and suicide. Research is based upon Danish registers and increasingly upon genetic and other biological data, and one main topic of research is the study of gene-environment interactions.
+
+The centre aims at contributing to the integration of register-based research between health sciences and social sciences, and to strengthen the use of register data in social sciences. By appointment, the centre can give advice and practical assistance in relation to register-based research projects, and participate in research collaboration. 
+
+One of the 8 main research groups that make up NCRR is Bjarni Jóhann Vilhjálmsson's group which is what this site concerns. 
+
 [Read more about the group](who.html)  
 
 [Read publications from the group](publications.html)
