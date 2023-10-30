@@ -2,6 +2,38 @@
 title: "List of Publications"
 ---
 
+## 2023
+
+
+**ADuLT: An efficient and robust time-to-event GWAS.**     
+*EM Pedersen, E Agerbo, O Plana-Ripoll, J Steinbach, MD Krebs, DM Hougaard, T Werge, M Nordentoft, A Børglum,  KL Musliner, A Ganna, AJ Schork, PB Mortensen,  JJ McGrath,  F Privé, BJ Vilhjálmsson.*    
+https://doi.org/10.1101/2022.08.11.22278618
+
+
+**Multi-PGS enhances polygenic prediction: weighting 937 polygenic scores.**        
+*C Albiñana, Z Zhu, AJ Schork, A Ingason, H Aschard, I Brikell, CM Bulik, LV Petersen, E Agerbo, J Grove, M Nordentoft, DM Hougaard, T Werge, AD Børglum, PB Mortensen, JJ McGrath, BM Neale,  F Privé, BJ Vilhjálmsson.*   
+https://doi.org/10.1101/2022.09.14.22279940
+
+**Deep integrative models for large-scale human genomics.**     
+*AI Sigurdsson,  D Westergaard, O Winther, O Lund, S Brunak, BJ Vilhjálmsson, S Rasmussen.*   
+https://doi.org/10.1101/2021.06.11.447883
+
+
+**Polygenic scoring accuracy varies across the genetic ancestry continuum in all human populations.**     
+*Y Ding, K Hou, Z Xu, A Pimplaskar, E Petter, K Boulier, F Privé, BJ Vilhjálmsson, LO Loohuis, B Pasaniuc.*    
+https://doi.org/10.1101/2022.09.28.509988
+
+**Genetic correlates of vitamin D-binding protein and 25 hydroxyvitamin D in neonatal dried blood spots.**     
+*C Albiñana, Z Zhu, N Borbye-Lorenzen, S Grundvad Boelt, AS Cohen, K Skogstrand, NR Wray, JA Revez, F Privé, LV Petersen, C Bulik, O Plana-Ripoll, KL Musliner, E Agerbo, A Børglum, DM Hougaard, M Nordentoft, T Werge, PB Mortensen, BJ Vilhjálmsson, JJ McGrath.*   
+https://doi.org/10.1101/2022.06.08.22276164
+
+**Interplay of ADHD Polygenic Liability With Birth-Related, Somatic, and Psychosocial Factors in ADHD: A Nationwide Study.**      
+*I Brikell, T Wimberley, C Albinana, BJ Vilhjálmsson, E Agerbo, AD Borglum, D Demontis, AJ Schork, S LaBianca, T Werge, DM Hougaard, M Nordentoft, O Mors, PB Mortensen, LV Petersen, S Dalsgaard.*   
+https://doi.org/10.1176/appi.ajp.21111105
+
+**Polygenic liability, stressful life events and risk for developing severe depression in early life: A nationwide register-based case-cohort study.  **   
+*KL Musliner, E Agerbo, BJ Vilhjálmsson, C Albiñana, TD Als, SD Østergaard, PB Mortensen.*   
+https://doi.org/10.1017/s0033291721001410
 
    
 ## 2022
@@ -31,39 +63,9 @@ https://doi.org/10.1016/j.ajhg.2022.01.009
 ***in press***
 
 
-**Interplay of ADHD Polygenic Liability With Birth-Related, Somatic, and Psychosocial Factors in ADHD: A Nationwide Study.**      
-*I Brikell, T Wimberley, C Albinana, BJ Vilhjálmsson, E Agerbo, AD Borglum, D Demontis, AJ Schork, S LaBianca, T Werge, DM Hougaard, M Nordentoft, O Mors, PB Mortensen, LV Petersen, S Dalsgaard.*   
-https://doi.org/10.1176/appi.ajp.21111105
-
-
-**Multi-PGS enhances polygenic prediction: weighting 937 polygenic scores.**        
-*C Albiñana, Z Zhu, AJ Schork, A Ingason, H Aschard, I Brikell, CM Bulik, LV Petersen, E Agerbo, J Grove, M Nordentoft, DM Hougaard, T Werge, AD Børglum, PB Mortensen, JJ McGrath, BM Neale,  F Privé, BJ Vilhjálmsson.*   
-https://doi.org/10.1101/2022.09.14.22279940
-
-
-**ADuLT: An efficient and robust time-to-event GWAS.**     
-*EM Pedersen, E Agerbo, O Plana-Ripoll, J Steinbach, MD Krebs, DM Hougaard, T Werge, M Nordentoft, A Børglum,  KL Musliner, A Ganna, AJ Schork, PB Mortensen,  JJ McGrath,  F Privé, BJ Vilhjálmsson.*    
-https://doi.org/10.1101/2022.08.11.22278618
-
-
-**Deep integrative models for large-scale human genomics.**     
-*AI Sigurdsson,  D Westergaard, O Winther, O Lund, S Brunak, BJ Vilhjálmsson, S Rasmussen.*   
-https://doi.org/10.1101/2021.06.11.447883
-
-
 **Identification of 64 new risk loci for major depression, refinement of the genetic architecture and risk prediction of recurrence and comorbidities.**     
 *TD Als, M Kurki, J Grove, G Voloudakis, K Therrien, J Naamanka, TT Nielsen, K Veerapen, D Levey, J Bendl, J Bybjerg-Grauholm, B Zheng, D Demontis, A Rosengren, G Athanasiadis, M Bækved-Hansen, P Qvist, B Walters, H Stefánsson, K Musliner, V Manikandan, L Farajzadeh, J Thirstrup, S Dinesen, BJ Vilhjálmsson, JJ McGrath, M Mattheisen, S Meier, iPSYCH-Broad Consortium, E Agerbo, K Stefánsson, M Nordentoft, T Werge, DM Hougaard, PB Mortensen, M Stein, J Gelernter, I Hovatta, P Roussos, MJ Daly, O Mors, A Palotie, and AD Børglum.*   
 https://doi.org/10.1101/2022.08.24.22279149 
-
-
-**Polygenic scoring accuracy varies across the genetic ancestry continuum in all human populations.**     
-*Y Ding, K Hou, Z Xu, A Pimplaskar, E Petter, K Boulier, F Privé, BJ Vilhjálmsson, LO Loohuis, B Pasaniuc.*    
-https://doi.org/10.1101/2022.09.28.509988
-
-
-**Genetic correlates of vitamin D-binding protein and 25 hydroxyvitamin D in neonatal dried blood spots.**     
-*C Albiñana, Z Zhu, N Borbye-Lorenzen, S Grundvad Boelt, AS Cohen, K Skogstrand, NR Wray, JA Revez, F Privé, LV Petersen, C Bulik, O Plana-Ripoll, KL Musliner, E Agerbo, A Børglum, DM Hougaard, M Nordentoft, T Werge, PB Mortensen, BJ Vilhjálmsson, JJ McGrath.*   
-https://doi.org/10.1101/2022.06.08.22276164
 
 
 **Discriminating bipolar disorder type I and II using polygenic risk scores for bipolar disorder, schizophrenia and major depression.**     
@@ -185,11 +187,6 @@ https://doi.org/10.1161/CIRCGEN.120.003298
 **Polygenic Liability and Recurrence of Depression in Patients With First-Onset Depression Treated in Hospital-Based Settings.**     
 *KL Musliner, KK Andersen, E Agerbo, C Albiñana, BJ Vilhjálmsson, VM Rajagopal, J Bybjerg-Grauholm, M Bækved-Hansen, CB Pedersen, MG Pedersen, T Munk-Olsen, ME Benros, T Als, J Grove, T Werge, AD Børglum, DM Hougaard, O Mors, M Nordentoft, PB Mortensen, NP Suppli.*   
 https://doi.org/10.1001/jamapsychiatry.2021.0701
-
-
-**Polygenic liability, stressful life events and risk for developing severe depression in early life: A nationwide register-based case-cohort study.  **   
-*KL Musliner, E Agerbo, BJ Vilhjálmsson, C Albiñana, TD Als, SD Østergaard, PB Mortensen.*   
-https://doi.org/10.1017/s0033291721001410
 
 
 **Risk of Major Depression, Polygenic Risk Score for Depression, Parental Socio-Economic Status and History of Mental Disorders: A Danish Population-Based Study.  **   
